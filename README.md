@@ -1,7 +1,7 @@
 # new_polymers_vienna
 Repository storing the relaxed positions of the new polymers for the collaboration with Florian in Vienna.
 
-##Two folders:
+**Two folders:**
 
 **full_polymers:** This repo contains the whole coordinates of the polymers (more than 300 atoms each). This is to be used for creating the CHARMM Force Field and peruse which are the problematic charges and angles.
 
